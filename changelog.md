@@ -18,6 +18,7 @@ This project is maintained by **Dr. Printer P.H.D**.
 Some features of this resource pack **require** the Bellcraft Datapack to work, as well as *either* of these two setups:
 - Forge with OptiFine 
 - Fabric with CEM version 0.8.0 and Entity Texture Features version 1.20-4.4.4 or higher.
+Luckily this is server-side so if Brock doesn't include it it won't matter!
 
 *************************
 
