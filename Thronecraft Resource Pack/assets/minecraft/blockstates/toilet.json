@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "occupied=false,facing=north": {
+      "model": "toilet:block/toilet_clean"
+    },
+    "occupied=true,facing=north": {
+      "model": "toilet:block/toilet_clean"
+    },
+
+
+    "occupied=false,acing=south": {
+      "model": "toilet:block/toilet_clean",
+      "y": 180
+    },
+    "occupied=true,facing=south": {
+      "model": "toilet:block/toilet_clean",
+      "y": 180
+    },
+
+
+    "occupied=false,facing=west": {
+      "model": "toilet:block/toilet_clean",
+      "y": 270
+    },
+    "occupied=true,facing=west": {
+      "model": "toilet:block/toilet_clean",
+      "y": 270
+    },
+
+
+    "occupied=false,facing=east": {
+      "model": "toilet:block/toilet_clean",
+      "y": 90
+    },
+    "occupied=true,facing=east": {
+      "model": "toilet:block/toilet_clean",
+      "y": 90
+    }
+  }
+}
