@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+	  
+    {
+     "when": "Money",
+     "model": { "type": "minecraft:model", "model": "minecraft:item/money/money_generic" }
+	  },
+    {
+     "when": "money",
+     "model": { "type": "minecraft:model", "model": "minecraft:item/money/money_generic" }
+    },
+ 
+
+    {
+      "when": "USD",
+      "model": { "type": "minecraft:model", "model": "minecraft:item/emoji/money_generic" }
+    },
+    {
+      "when": "GBP",
+      "model": { "type": "minecraft:model", "model": "minecraft:item/emoji/money_generic" }
+    },
+    {
+      "when": "JPY",
+      "model": { "type": "minecraft:model", "model": "minecraft:item/emoji/money_generic" }
+    }
+    ],
+    "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/emerald"
+    }
+  }
+}

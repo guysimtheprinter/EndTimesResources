@@ -18,24 +18,28 @@ This project is maintained by **Dr. Printer P.H.D**.
 Some features of this resource pack **require** the Bellcraft Datapack to work, as well as *either* of these two setups:
 - Forge with OptiFine 
 - Fabric with CEM version 0.8.0 and Entity Texture Features version 1.20-4.4.4 or higher.
-Luckily this is server-side so if Brock doesn't include it it won't matter!
 
 *************************
 
 ## [3.0.1-alpha] - 2025-04-12
 
 ### Added
-- Added 107 new splashes.
+- Added 117 new splashes.
 - Added emojis that replace Golden Apples when renamed.
     - Currently added :sob:, :frowning2:, :eyebrow:, and a blank emoji.
+- Renaming emeralds to "Money" changes its texture to a stack of dollar bills.
 
 ### Changed
 - Renamed the pack to the Thronecraft Resource Pack.
 - Replaced "passage" painting with [legion_takeover.gif](https://ibb.co/1Ffd7tq).
 - Animated passage painting.
+- Replaced music disc audios for the [REDACTED] questline.
+- Replaced music disc textures for the [REDACTED] questline.
+- Updated lang file to match music discs.
 
 ### Bugs
 - Killed ants.
+- Music discs have random textures.
 
 ### Fixed
 - Updated for 1.21.5.
@@ -57,8 +61,8 @@ Luckily this is server-side so if Brock doesn't include it it won't matter!
 - Removed yellow and white terracotta file that looked exactly the same as vanilla versions
 
 ### Deprecated
-- Paintings have descriptions now and are not up to date with textures.
-- Music disc names are incorrect.
+- Paintings have descriptions now and were not up to date with textures.
+- Music disc names were incorrect.
 
 *************************
 
